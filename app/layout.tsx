@@ -10,9 +10,8 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Full Stack Developer",
-  description:
-    "Professional portfolio of a Full Stack Developer specializing in MERN stack and Java programming",
+  title: "Chamod Sathsara Portfolio ",
+  description: "Professional portfolio of a Full Stack Developer ",
 };
 
 export default function RootLayout({
